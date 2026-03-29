@@ -83,7 +83,3 @@ REFERENCES:
 ✅ SYSTEM STATUS: SUCCESS
 
 *Built for the Google Gemini x Kaggle Agents Intensive Competition.*
-
------
-
-Would you like me to generate a `requirements.txt` file to accompany this README?
